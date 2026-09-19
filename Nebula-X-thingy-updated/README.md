@@ -126,3 +126,7 @@ npx serve .
 ## 📄 License
 
 This distribution contains third-party open source libraries (React, Leaflet, regenerator-runtime). Refer to [`main.ea36e950.js.LICENSE.txt`](file:///C:/Users/fangm/.gemini/antigravity/scratch/nebula-x-thingy/Nebula-X-thingy/main.ea36e950.js.LICENSE.txt) for license terms.
+
+
+
+DEMO VIDEO LINK: https://www.youtube.com/shorts/i7_aeU1iats
