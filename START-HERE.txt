@@ -1,0 +1,17 @@
+NEBULA TRANSIT — LIVE SERVER EDITION
+
+1. Extract the entire ZIP. Keep index.html and the static folder together.
+2. Open the extracted Nebula-Transit-LiveServer folder in VS Code.
+3. Right-click index.html and choose Open with Live Server, or open it in your mobile live preview.
+
+No npm install, build command, Express server, API key, or .env file is required.
+
+Included: editable starting point, map pin selection, optional GPS, local place suggestions, cached bus + MRT planning, journey steps, saved routes, MRT network view, and accessibility/alert controls.
+
+Internet is required for map tiles, external address search, and road routing. Local bus/MRT planning uses bundled data. Timings and fares are estimates. Walking connections are approximate, not verified street-by-street or wheelchair-accessible directions. The bundled MRT network includes six main lines and the airport branch, not LRT or later extensions. Shuttle information is limited to the links/data shown in the app.
+
+Live LTA arrivals, traffic, taxi availability and disruption feeds are unavailable in this server-free edition. They require a separately hosted secure API; no private API keys are included.
+
+On phones, GPS generally needs HTTPS or localhost. A plain HTTP LAN preview may block GPS: type your starting point or choose it on the map instead. Vibration and speech depend on browser/device support; keep the page open for journey alerts.
+
+These files are the ready-to-run distribution. The existing google-maps-clone folder contains the editable React source.
